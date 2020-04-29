@@ -1,2 +1,2 @@
 # progress-report
-file:///home/abhinavkrishnasingh/Desktop/abhinav/index.html
+https://abhi-4793.github.io/progress-report/
